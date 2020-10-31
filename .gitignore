@@ -1,4 +1,8 @@
 # Created by .ignore support plugin (hsz.mobi)
+
+*.class
+*.xml
+*.iml
 .gitignore
 .idea/.gitignore
 .idea/kotlinc.xml
@@ -9,3 +13,4 @@
 javaBasics.iml
 out/
 .idea/vcs.xml
+
